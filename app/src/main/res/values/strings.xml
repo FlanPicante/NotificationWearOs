@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NotificationIt</string>
+    <string name="create">CREAR NOTIFICACION</string>
+    <string name="inputMain">INGRESE TEXTO</string>
+</resources>
